@@ -1,0 +1,137 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\adiru\\Desktop\\Adigame3d\\Engine.Editor\\Engine.Editor.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\adiru\\Desktop\\Adigame3d\\Engine.Core\\Engine.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\adiru\\Desktop\\Adigame3d\\Engine.Core\\Engine.Core.csproj",
+        "projectName": "Engine.Core",
+        "projectPath": "C:\\Users\\adiru\\Desktop\\Adigame3d\\Engine.Core\\Engine.Core.csproj",
+        "packagesPath": "C:\\Users\\adiru\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\adiru\\Desktop\\Adigame3d\\Engine.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\adiru\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "targetAlias": "net461",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "targetAlias": "net461",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "OpenTK": {
+              "target": "Package",
+              "version": "[3.3.3, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.421\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\adiru\\Desktop\\Adigame3d\\Engine.Editor\\Engine.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\adiru\\Desktop\\Adigame3d\\Engine.Editor\\Engine.Editor.csproj",
+        "projectName": "Engine.Editor",
+        "projectPath": "C:\\Users\\adiru\\Desktop\\Adigame3d\\Engine.Editor\\Engine.Editor.csproj",
+        "packagesPath": "C:\\Users\\adiru\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\adiru\\Desktop\\Adigame3d\\Engine.Editor\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\adiru\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "targetAlias": "net461",
+            "projectReferences": {
+              "C:\\Users\\adiru\\Desktop\\Adigame3d\\Engine.Core\\Engine.Core.csproj": {
+                "projectPath": "C:\\Users\\adiru\\Desktop\\Adigame3d\\Engine.Core\\Engine.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "targetAlias": "net461",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "OpenTK": {
+              "target": "Package",
+              "version": "[3.3.3, )"
+            },
+            "OpenTK.GLControl": {
+              "target": "Package",
+              "version": "[3.3.3, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.421\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
