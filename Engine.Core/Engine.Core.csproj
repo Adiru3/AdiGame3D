@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net461</TargetFramework>
+    <AssemblyName>Engine.Core</AssemblyName>
+    <RootNamespace>Engine.Core</RootNamespace>
+    <LangVersion>7.3</LangVersion>
+    <ProjectGuid>{AAA11111-1111-1111-1111-111111111111}</ProjectGuid>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System.Drawing" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="OpenTK" Version="3.3.3" />
+  </ItemGroup>
+</Project>
