@@ -1,0 +1,12 @@
+C:\Users\adiru\Desktop\Adigame3d\obj\Debug\net461\diag_al.csproj.AssemblyReference.cache
+C:\Users\adiru\Desktop\Adigame3d\obj\Debug\net461\diag_al.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adiru\Desktop\Adigame3d\obj\Debug\net461\diag_al.AssemblyInfoInputs.cache
+C:\Users\adiru\Desktop\Adigame3d\obj\Debug\net461\diag_al.AssemblyInfo.cs
+C:\Users\adiru\Desktop\Adigame3d\obj\Debug\net461\diag_al.csproj.CoreCompileInputs.cache
+C:\Users\adiru\Desktop\Adigame3d\bin\Debug\net461\diag_al.exe.config
+C:\Users\adiru\Desktop\Adigame3d\bin\Debug\net461\diag_al.exe
+C:\Users\adiru\Desktop\Adigame3d\bin\Debug\net461\diag_al.pdb
+C:\Users\adiru\Desktop\Adigame3d\bin\Debug\net461\OpenTK.dll
+C:\Users\adiru\Desktop\Adigame3d\obj\Debug\net461\diag_al.csproj.Up2Date
+C:\Users\adiru\Desktop\Adigame3d\obj\Debug\net461\diag_al.exe
+C:\Users\adiru\Desktop\Adigame3d\obj\Debug\net461\diag_al.pdb
