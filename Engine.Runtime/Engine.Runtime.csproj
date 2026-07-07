@@ -1,0 +1,38 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net461</TargetFramework>
+    <AssemblyName>Engine.Runtime</AssemblyName>
+    <RootNamespace>Engine.Runtime</RootNamespace>
+    <LangVersion>7.3</LangVersion>
+    <ProjectGuid>{CCC33333-3333-3333-3333-333333333333}</ProjectGuid>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Drawing" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="OpenTK" Version="3.3.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="LiteNetLib" Version="0.9.5.2" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Engine.Core\Engine.Core.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="Resources\Shaders\runtime.vert">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Resources\Shaders\runtime.frag">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Resources\Shaders\sky.vert">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Resources\Shaders\sky.frag">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+</Project>

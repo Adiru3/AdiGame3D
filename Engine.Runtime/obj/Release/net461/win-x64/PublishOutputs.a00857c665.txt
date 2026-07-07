@@ -1,0 +1,12 @@
+C:\Users\adiru\Desktop\Adigame3d\temp_publish_test\Resources\Shaders\runtime.frag
+C:\Users\adiru\Desktop\Adigame3d\temp_publish_test\Resources\Shaders\runtime.vert
+C:\Users\adiru\Desktop\Adigame3d\temp_publish_test\Resources\Shaders\sky.frag
+C:\Users\adiru\Desktop\Adigame3d\temp_publish_test\Resources\Shaders\sky.vert
+C:\Users\adiru\Desktop\Adigame3d\temp_publish_test\Engine.Runtime.exe
+C:\Users\adiru\Desktop\Adigame3d\temp_publish_test\Engine.Runtime.exe.config
+C:\Users\adiru\Desktop\Adigame3d\temp_publish_test\Engine.Runtime.pdb
+C:\Users\adiru\Desktop\Adigame3d\temp_publish_test\LiteNetLib.dll
+C:\Users\adiru\Desktop\Adigame3d\temp_publish_test\Newtonsoft.Json.dll
+C:\Users\adiru\Desktop\Adigame3d\temp_publish_test\OpenTK.dll
+C:\Users\adiru\Desktop\Adigame3d\temp_publish_test\Engine.Core.dll
+C:\Users\adiru\Desktop\Adigame3d\temp_publish_test\Engine.Core.pdb
